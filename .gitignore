@@ -1,2 +1,7 @@
-echo * > .gitignore
-echo !README.md >> .gitignore
+minivenv/
+__pycache__/
+*.pyc
+db.sqlite3
+.env
+.vscode/
+.idea/
